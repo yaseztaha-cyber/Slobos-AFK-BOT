@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Technoblade",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "yasez22.aternos.me:38030",
+    "ip": "yasez22.aternos.me",
     "port": 38030,
     "version": "1.21.11"
   },
